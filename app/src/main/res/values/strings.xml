@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RunningApp</string>
+    <string name="google_maps_key">AIzaSyB-GcMbVSgfjrXgQmonspJ414HyXdvXAUc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="warning">You need to accept location permissions to use this app.</string>
+
+    <string-array name="sortedType">
+        <item>Date</item>
+        <item>Calories burned</item>
+        <item>Distance</item>
+        <item>Running time</item>
+        <item>AVG speed</item>
+    </string-array>
+</resources>
